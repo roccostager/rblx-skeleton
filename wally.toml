@@ -8,6 +8,7 @@ realm = "shared"
 React = "jsdotlua/react@17.1.0"
 ReactRoblox = "jsdotlua/react-roblox@17.1.0"
 reflex = "littensy/reflex@4.3.1"
+react-reflex = "littensy/react-reflex@0.3.6"
 
 [server-dependencies]
 cmdr = "evaera/cmdr@1.13.1"

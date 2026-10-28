@@ -1,0 +1,7 @@
+{
+    "luau-lsp.studioPlugin.enabled": true,
+    "luau-lsp.studioPlugin.port": 3667,
+    "luau-lsp.sourcemap.enabled": true,
+    "luau-lsp.sourcemap.autogenerate": true,
+    "luau-lsp.sourcemap.rojoProjectFile": "default.project.json"
+}

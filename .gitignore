@@ -1,0 +1,12 @@
+# Project place file
+/rblx-skeleton.rbxlx
+
+# Roblox Studio lock files
+/*.rbxlx.lock
+/*.rbxl.lock
+
+sourcemap.json
+
+# Packages
+/Packages/
+/ServerPackages/

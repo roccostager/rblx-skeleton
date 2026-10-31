@@ -9,6 +9,12 @@
       },
       "Packages": {
         "$path": "Packages"
+      },
+      "Events": {
+        "$path": "_objects/Events.rbxmx"
+      },
+      "Assets": {
+        "$path": "_objects/Assets.rbxmx"
       }
     },
 
@@ -32,6 +38,9 @@
     "Workspace": {
       "$properties": {
         "FilteringEnabled": true
+      },
+      "World": {
+        "$path": "_objects/World.rbxmx"
       }
     },
     "Lighting": {

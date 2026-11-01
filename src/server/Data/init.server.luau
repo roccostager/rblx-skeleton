@@ -2,7 +2,7 @@ local ProfileStore = require(script.ProfileStore)
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local State = require(ReplicatedStorage.Shared.State)
-local Template = require(script.Template)
+local Template = require(ReplicatedStorage.Shared.config.Data.Template)
 
 local Players = game:GetService("Players")
 local PlayerStore = ProfileStore.New("dev", Template)

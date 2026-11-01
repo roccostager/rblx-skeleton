@@ -5,7 +5,7 @@ local NumberUtils = {}
 -- Returns number as a string
 function NumberUtils.formatComma(num: number)
 
-    local formatted = tostring(num)
+    local formatted = tostring(math.floor(num))
     local substitutions: number
 
     while true do
